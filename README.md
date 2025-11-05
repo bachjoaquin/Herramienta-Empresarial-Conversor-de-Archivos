@@ -47,6 +47,7 @@ python -m venv .venv
 .venv\Scripts\activate
 pip install flet pandas openpyxl
 python app_flet_conversion.py
+```
 
 🧱 Estado actual
 
