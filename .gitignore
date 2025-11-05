@@ -205,3 +205,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- Archivos locales del proyecto Herramienta Empresarial ---
+# Entorno virtual
+.venv/
+
+# Carpeta de salida de archivos TXT
+output/
+
+# Base de datos local (se genera automáticamente)
+app_data.db
+
+# Logs o archivos temporales
+*.log
+*.tmp
