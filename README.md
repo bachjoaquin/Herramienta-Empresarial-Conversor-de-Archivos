@@ -57,6 +57,7 @@ Incluye las principales funciones del conversor y la interfaz de usuario.
 📫 Contacto
 
 Autor: Joaquín Bach
+
 📧 bachjoaquin07@gmail.com
 
 🔗 linkedin.com/in/joaquin-bach-89218b289/
