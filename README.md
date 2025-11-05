@@ -47,3 +47,15 @@ python -m venv .venv
 .venv\Scripts\activate
 pip install flet pandas openpyxl
 python app_flet_conversion.py
+
+🧱 Estado actual
+
+🧪 Proyecto en desarrollo – versión demostrativa.
+Incluye las principales funciones del conversor y la interfaz de usuario.
+
+📫 Contacto
+
+Autor: Joaquín Bach
+📧 joaquinbach99@gmail.com
+
+🔗 linkedin.com/in/joaquin-bach-89218b289
